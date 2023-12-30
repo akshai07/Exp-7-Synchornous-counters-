@@ -1,4 +1,4 @@
-Developed by: AKSHAI KHANNA D
+Developed by: AKSHAI KHANNA D<br>
 Reference number: 212223040010
 
 # Exp-6: Synchornous counters up counter and down counter 
